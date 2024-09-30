@@ -1,5 +1,5 @@
 
-# Contributor Covenant Code of Conduct
+# Crispy Parakeet Code of Conduct
 
 ## Our Pledge
 
