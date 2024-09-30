@@ -16,8 +16,8 @@ While this may be a niche set of labels, the volume of data that uses them for p
 
 ## Contributing
 
-Please refer to CONTRIBUTING.md (to be written)
+We are open to contributions from the community to improve crispy-parakeet. To see our process for handling contributions, please see the [contributing guidelines](CONTRIBUTING.md).
 
 ## Code of Conduct
 
-Please refer to the Code-Of-Conduct.md (to be written)
+We expect every member of our community to create an open, honest, and welcoming environment. This will allow us all to be as productive as possible. For any questions about our expectations, please see the [code of conduct](CODE_OF_CONDUCT.md).
